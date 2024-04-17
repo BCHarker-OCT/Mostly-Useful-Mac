@@ -6,7 +6,7 @@ A list of mostly useful apps that I use on macOS that make things easier to get 
 
 - Clipboard Manager: [maccy](https://maccy.app)
 - Typing automator: [Rocket Typist](https://www.witt-software.com/rockettypist/)
-  - One-time fee, but a big time saver. I can have it replace text with small shortcuts, as well as templates to make things go faster. This is useful for typing out Linux commands that are very long, repetitive, or for always typing someone's name corretly in Slack. 
+  - One-time fee, but a big time saver. I can have it replace text with small shortcuts, as well as templates to make things go faster. This is useful for typing out Linux commands that are very long, repetitive, or for always typing someone's name correctly in Slack. 
   - Example:  `!H` types `hostname -f` 
 - Screenshot tool: [shottr](https://shottr.cc) (one time fee, but worth it!)
 - Spolight on steroid: [Raycast](https://www.raycast.com/)
