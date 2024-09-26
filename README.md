@@ -30,6 +30,8 @@ I have a mix of a few.
 
 ## Cli Based Applications 
 
+- [TextSniper](https://textsniper.app)
+  - A one-time fee, but well worth it. While macOCR is free, this app does better at keeping the text on different lines and can speed up OCR on-screen capture.
 - [macOCR](https://github.com/schappim/macOCR)
   - Allows you to type `ocr` and have the text output to your terminal. Apple has a similar feature for images, but it's nice to not need to take a screenshot to quickly grab some text on screen that is not copyable. It does have some problems with special characters at times. 
 - [PagerDuty CLI](https://github.com/martindstone/pagerduty-cli)
