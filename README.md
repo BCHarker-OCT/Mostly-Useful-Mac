@@ -30,6 +30,8 @@ I have a mix of a few.
 
 ## Cli Based Applications 
 
+- [PopClip](https://www.popclip.app)
+  - Start looking at their extensions, this app is so simple, but a magnificent time-saver.
 - [TextSniper](https://textsniper.app)
   - A one-time fee, but well worth it. While macOCR is free, this app does better at keeping the text on different lines and can speed up OCR on-screen capture.
 - [macOCR](https://github.com/schappim/macOCR)
