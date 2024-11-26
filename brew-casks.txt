@@ -1,0 +1,12 @@
+chromedriver
+dbeaver-community
+font-fira-code
+font-noto-nerd-font
+maccy
+openlens
+pdk
+puppet-bolt
+secretive
+shortcat
+vagrant
+wave
