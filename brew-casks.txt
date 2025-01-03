@@ -2,6 +2,7 @@ chromedriver
 dbeaver-community
 font-fira-code
 font-noto-nerd-font
+ghostty
 maccy
 openlens
 pdk

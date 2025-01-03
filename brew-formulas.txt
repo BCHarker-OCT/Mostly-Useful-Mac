@@ -82,7 +82,6 @@ hicolor-icon-theme
 highway
 hostctl
 hwloc
-icu4c
 icu4c@76
 imagemagick
 imath
@@ -201,7 +200,6 @@ pastel
 pcre2
 pinentry
 pixman
-pkg-config
 pkgconf
 popeye
 postgresql@14
