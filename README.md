@@ -28,8 +28,12 @@ I have a mix of a few.
 - [iTerm2](https://iterm2.com)
 - [Warp](https://www.warp.dev)
 
-## Cli Based Applications 
+##  Applications CLI and GUI
 
+- [Wins](https://wins.cool) 
+  - I've been using this for window management instead of magnet. 
+- [LICEcap](https://www.cockos.com/licecap/)
+  - Funny name, but it helps make Gifs. 
 - [PopClip](https://www.popclip.app)
   - Start looking at their extensions, this app is so simple, but a magnificent time-saver.
 - [Latest](https://max.codes/latest/)
