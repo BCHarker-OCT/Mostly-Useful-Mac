@@ -6,6 +6,7 @@ ghostty
 maccy
 openlens
 pdk
+podman-desktop
 puppet-bolt
 secretive
 shortcat

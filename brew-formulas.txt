@@ -201,6 +201,7 @@ pcre2
 pinentry
 pixman
 pkgconf
+podman
 popeye
 postgresql@14
 psutils
