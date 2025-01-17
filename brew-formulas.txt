@@ -88,6 +88,7 @@ imath
 isl
 jasper
 jbig2dec
+jira-cli
 jpeg-turbo
 jpeg-xl
 jq
