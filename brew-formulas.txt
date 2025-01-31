@@ -256,6 +256,7 @@ velero
 vhs
 watch
 webp
+wget
 x264
 x265
 xorgproto
