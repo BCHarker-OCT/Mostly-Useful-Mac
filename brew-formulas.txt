@@ -78,6 +78,7 @@ guile
 gum
 harfbuzz
 helm
+helm-docs
 hicolor-icon-theme
 highway
 hostctl
