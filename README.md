@@ -10,25 +10,21 @@ A list of mostly useful apps that I use on macOS that make things easier to get 
   - Example:  `!H` types `hostname -f` 
 - Screenshot tool: [shottr](https://shottr.cc) (one time fee, but worth it!)
 - Spolight on steroid: [Raycast](https://www.raycast.com/)
-- Easy Emoji Picker: [Rocket](https://matthewpalmer.net/rocket/)
 - Updates: [MacUpdater](https://macupdater.net/)
-- Getting to ChatGPT faster: [MacGPT](https://goodsnooze.gumroad.com/l/menugpt?referrer=https%3A%2F%2Fwww.macgpt.com%2F&wanted=true)
-- Window Management: [magnet](https://magnet.crowdcafe.com)
+- [Leader Key](https://github.com/mikker/LeaderKey.app)
+  - This is the app that makes RayCast better. I disable the Spotlight shortcut and now use this for spotlight and it makes things so much faster!
 
 ## Notes 
 
 I have a mix of a few. 
-
-- Daily Notes: [Logseq](https://logseq.com/)
-- Project Notes: [Zettlr](https://www.zettlr.com)
 - Apple Notes 📔
 
 ## Terminal Emulators 
 
 - [iTerm2](https://iterm2.com)
-- [Warp](https://www.warp.dev)
 
 ##  Applications CLI and GUI
+
 
 - [Wins](https://wins.cool) 
   - I've been using this for window management instead of magnet. 
