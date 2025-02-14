@@ -1,5 +1,4 @@
 chromedriver
-dbeaver-community
 font-0xproto-nerd-font
 font-3270-nerd-font
 font-agave-nerd-font
@@ -77,7 +76,6 @@ openlens
 pdk
 podman-desktop
 puppet-bolt
-secretive
 shortcat
 vagrant
 wave
