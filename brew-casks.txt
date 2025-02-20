@@ -73,9 +73,7 @@ ghostty
 leader-key
 maccy
 openlens
-pdk
 podman-desktop
-puppet-bolt
 shortcat
 vagrant
 wave

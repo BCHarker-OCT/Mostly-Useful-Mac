@@ -1,3 +1,4 @@
+abseil
 amazon-ecs-cli
 aom
 appstream
@@ -133,6 +134,7 @@ libraw
 librist
 librsvg
 libsamplerate
+libsass
 libsndfile
 libsodium
 libsoxr
@@ -184,6 +186,7 @@ npth
 numpy
 ocr
 oniguruma
+onnx
 openblas
 opencore-amr
 openexr
@@ -206,6 +209,7 @@ pkgconf
 podman
 popeye
 postgresql@14
+protobuf
 psutils
 pugixml
 putty
@@ -263,6 +267,7 @@ x265
 xorgproto
 xvid
 xz
+yarn
 youtube-dl
 yq
 yt-dlp
