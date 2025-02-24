@@ -9,6 +9,8 @@ atk
 autoconf
 autossh
 aws-cdk
+aws2-wrap
+awscli
 bash
 bdw-gc
 bitwarden-cli
@@ -19,10 +21,12 @@ c-ares
 ca-certificates
 cairo
 certifi
+cffi
 chezmoi
 cjson
 cmctl
 coreutils
+cryptography
 csshi
 csshx
 dav1d
@@ -214,6 +218,7 @@ psutils
 pugixml
 putty
 pwgen
+pycparser
 pyenv
 python-packaging
 python-tk@3.9
