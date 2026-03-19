@@ -1,6 +1,6 @@
 # Backup
 
-This is a personal list of things I would want to backup in the event of moving laptops, or things I'd want to reinstall. 
+This is a personal list of things I would want to backup in the event of moving laptops, or things I'd want to reinstall.
 
 ## Backups
 
