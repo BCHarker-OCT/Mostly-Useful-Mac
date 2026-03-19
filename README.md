@@ -13,6 +13,8 @@ A list of mostly useful apps that I use on macOS that make things easier to get 
 - Screenshot tool: [shottr](https://shottr.cc) (one time fee, but worth it!)
 - Spotlight on steroids: [Raycast](https://www.raycast.com/)
   - Extensible launcher with powerful extensions. Includes a [Project Manager extension](https://www.raycast.com/stellarsky/project-manager) for easily opening GitHub repos and projects.
+- Time management: [Watson](https://github.com/jazzband/Watson)
+  - Command-line tool to track time spent on projects. Great for logging work and understanding where your time goes.
 - Updates: [MacUpdater](https://macupdater.net/)
 - [Leader Key](https://github.com/mikker/LeaderKey.app)
   - This is the app that makes Raycast better. I disable the Spotlight shortcut and now use this for spotlight and it makes things so much faster!
@@ -20,6 +22,7 @@ A list of mostly useful apps that I use on macOS that make things easier to get 
 ## Notes
 
 I have a mix of a few.
+
 - Apple Notes 📔
 
 ## Terminal Emulators
@@ -37,6 +40,8 @@ I have a mix of a few.
   - Funny name, but it helps make GIFs.
 - [PopClip](https://www.popclip.app)
   - Start looking at their extensions, this app is so simple, but a magnificent time-saver.
+- [Dockdoor](https://formulae.brew.sh/cask/dockdoor#default)
+  - Easy customization and organization for your dock. Available via Homebrew.
 - [Latest](https://max.codes/latest/)
   - Updates for applications in macOS.
 - [TextSniper](https://textsniper.app)
@@ -52,10 +57,9 @@ I have a mix of a few.
 - [mac_software_updater](https://github.com/pr-fuzzylogic/mac_software_updater)
   - A helpful utility to manage and automate updates for Homebrew applications. Keeps your brew packages up to date easily.
 
+## Retired
 
-## 🧓 Retired
-
-Apps I no longer use for one reason or another...
+Apps I no longer use:
 
 - [Wins](https://wins.cool)
   - An app for Window management.
