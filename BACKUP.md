@@ -32,6 +32,10 @@ moving laptops, or things I'd want to reinstall.
 - Markdown Notes
 - Bookmarks
 - Rocket Typist shortcuts
+- Raycast backups
+  - Snippets
+  - Quicklinks
+  - raycast-scripts directory reminder: commit and push changes
 - App List
 - Extension list from browser
 - DataGrip projects
