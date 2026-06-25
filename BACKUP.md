@@ -1,8 +1,9 @@
 # Backup
 
-This is a personal list of things I would want to backup in the event of moving laptops, or things I'd want to reinstall.
+This is a personal list of things I would want to backup in the event of
+moving laptops, or things I'd want to reinstall.
 
-## Backups
+## Backup Checklist
 
 - Dotfiles (chezmoi)
   - pass database
@@ -31,30 +32,31 @@ This is a personal list of things I would want to backup in the event of moving 
 - Markdown Notes
 - Bookmarks
 - Rocket Typist shortcuts
-- Leader Key configuration
 - App List
 - Extension list from browser
 - DataGrip projects
 - Windows App Exports
-- StreamDeck Plugins
 
-## Auto-Commit chezmoi configuration changes
+## Chezmoi Auto-Commit Configuration
 
-In `~/.config/chezmoi/config.yaml` I have the following configuration to auto-commit changes for a constant backup:
+In `~/.config/chezmoi/config.yaml` I have the following configuration to
+auto-commit changes for a constant backup.
 
 ```yaml
 git:
-  autoCommit: true  autoCommit: true
+  autoCommit: true
   autoPush: true
   branch: main
 sourceVCS:
   command: git
   init:
-    - remote add origin https://github.com/BCHarker-OCT/MY-PRIVATERC-REPO.git
+    - >-
+      remote add origin
+      https://github.com/BCHarker-OCT/MY-PRIVATERC-REPO.git
     - fetch
-``` 
+```
 
-Then in chezmoi.toml I have this:
+Then in `~/.config/chezmoi/chezmoi.toml` I have this:
 
 ```toml
 [git]
@@ -62,4 +64,5 @@ Then in chezmoi.toml I have this:
     autoPush = true
 ```
 
-Not sure if I need both or only one of these files to make it work, but it's working now.
+Not sure if I need both or only one of these files to make it work, but
+it's working now.

@@ -1,0 +1,16 @@
+default_install_hook_types:
+  - pre-commit
+  - commit-msg
+repos:
+  # Generates table of contents updates
+  - repo: https://github.com/frnmst/md-toc
+    rev: 9.0.0
+    hooks:
+      - id: md-toc
+        files: ^README\.md$
+
+  # Lints and auto-formats Markdown files
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.45.0
+    hooks:
+      - id: markdownlint-fix
