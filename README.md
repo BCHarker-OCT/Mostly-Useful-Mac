@@ -24,25 +24,28 @@ to get done. I try to stick to one-time purchases or free.
 
 ### General Quickness
 
-- Clipboard Manager: [maccy](https://maccy.app)
-- Typing automator: [Rocket Typist](https://www.witt-software.com/rockettypist/)
+- [maccy](https://maccy.app)
+  - Clipboard Manager.
+- [Rocket Typist](https://www.witt-software.com/rockettypist/)
   - One-time fee, but a big time saver. I can have it replace text with
     small shortcuts, as well as templates to make things go faster.
     This is useful for typing out Linux commands that are very long,
     repetitive, or for always typing someone's name correctly in Slack.
   - Example: `!H` types `hostname -f`
-- Text expansion: [espanso](https://espanso.org)
+- [espanso](https://espanso.org)
   - Free, open-source text expander that works across all applications.
     Similar to Rocket Typist but lighter weight and highly customizable.
-- Screenshot tool: [shottr](https://shottr.cc) (one time fee, but worth it!)
-- Spotlight on steroids: [Raycast](https://www.raycast.com/)
+- [shottr](https://shottr.cc)
+  - Screenshot tool (one time fee, but worth it!)
+- [Raycast](https://www.raycast.com/)
   - Extensible launcher with powerful extensions. Includes a
     [Project Manager extension](https://www.raycast.com/stellarsky/project-manager)
     for easily opening GitHub repos and projects.
-- Time management: [Watson](https://github.com/jazzband/Watson)
+- [Watson](https://github.com/jazzband/Watson)
   - Command-line tool to track time spent on projects. Great for logging
     work and understanding where your time goes.
-- Updates: [MacUpdater](https://macupdater.net/)
+- [MacUpdater](https://macupdater.net/)
+  - Updates for macOS applications.
 - [Leader Key](https://github.com/mikker/LeaderKey.app)
   - This is the app that makes Raycast better. I disable the Spotlight
     shortcut and now use this for spotlight and it makes things so much
